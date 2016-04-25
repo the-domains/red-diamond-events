@@ -1,7 +1,7 @@
 name: Red Diamond Events
 favicon: null
-layout_spectrum: 0.554685523500666
-typography_spectrum: 0.746668797917664
+layout_spectrum: 0.99422
+typography_spectrum: 0.5617
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.40220347233116627
-  lightness: 0.7120757636148483
-  saturation: 0.6723629492335021
-  rhythmicContrast: 0.6307514526415616
+    - '#ffffff'
+    - '#000000'
+    - '#f20000'
+    - '#666666'
+    - '#f99595'
+  brandStrength: 0.3125
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
