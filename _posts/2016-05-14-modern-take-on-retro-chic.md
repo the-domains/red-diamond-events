@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'We unleashed our inner retro chic with this houndstooth-inspired wedding we designed in Abuja! Houndstooth is a textile pattern characterised by duotone checks or abstract four-pointed shapes. We stuck with the classic black and white colour palette, which added a certain “je ne sais quoi” to the event.'
-datePublished: '2016-05-14T06:53:34.424Z'
-dateModified: '2016-05-14T06:52:41.789Z'
+description: 'The houndstooth lampshades on the walkway had a Chanel-esque quality, which was carried through to the stage decor.'
+datePublished: '2016-05-14T07:24:21.581Z'
+dateModified: '2016-05-14T07:24:17.994Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-14-modern-take-on-retro-chic.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-modern-take-on-retro-chic.md
 url: modern-take-on-retro-chic/index.html
 _type: Article
 
 ---
+## Modern take on Retro-Chic
+
 We unleashed our inner retro chic with this houndstooth-inspired wedding we designed in Abuja! Houndstooth is a textile pattern characterised by duotone checks or abstract four-pointed shapes. We stuck with the classic black and white colour palette, which added a certain "je ne sais quoi" to the event.
 
 The houndstooth lampshades on the walkway had a Chanel-esque quality, which was carried through to the stage decor.
