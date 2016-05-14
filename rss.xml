@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RedDiamondEvents]]></title>
+        <description><![CDATA[RedDiamondEvents]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 May 2016 06:53:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Modern take on Retro-Chic]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1140b6c-dfce-41d8-9cf4-18ca4d94c524.png">]]></description>
+            <link>undefinedmodern-take-on-retro-chic/index.html</link>
+            <guid isPermaLink="false">5982f9ff-2d5c-40a7-858a-5ca332e18ece</guid>
+            <pubDate>Sat, 14 May 2016 06:53:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
