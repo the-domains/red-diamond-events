@@ -4,21 +4,21 @@
         <description><![CDATA[Red Diamond Events]]></description>
         <link>https://thegrid.ai/red-diamond-events/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 07:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2016 07:29:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/red-diamond-events/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Once you go black ...]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4251cba0-e917-407d-95e7-7431e4ee1581.jpg">]]></description>
+            <link>https://thegrid.ai/red-diamond-events/once-you-go-black-/index.html</link>
+            <guid isPermaLink="false">b2893f5a-0919-40de-b8e4-77651ca44b59</guid>
+            <pubDate>Sat, 14 May 2016 07:29:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Modern take on Retro-Chic]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1140b6c-dfce-41d8-9cf4-18ca4d94c524.png">]]></description>
             <link>https://thegrid.ai/red-diamond-events/modern-take-on-retro-chic/index.html</link>
             <guid isPermaLink="false">5982f9ff-2d5c-40a7-858a-5ca332e18ece</guid>
             <pubDate>Sat, 14 May 2016 07:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Once you go black ...]]></title>
-            <description><![CDATA[<article><h1>Once you go black ...</h1><p>Trends come and go, but there’s one thing we can always count on - the chic and sultry stylings of a black ensemble!</p></article>]]></description>
-            <link>https://thegrid.ai/red-diamond-events/once-you-go-black-/index.html</link>
-            <guid isPermaLink="false">b2893f5a-0919-40de-b8e4-77651ca44b59</guid>
-            <pubDate>Sat, 14 May 2016 07:22:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
